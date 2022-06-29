@@ -3,7 +3,7 @@ __path = process.cwd()
 var express = require('express');
 
 // MASUKKAN/GANTI APIKEY 
-apikey = "nasigoreng"
+apikey = "6e0179650aaa79ae258dde38"
 // 
 
 var fetch = require('node-fetch');
